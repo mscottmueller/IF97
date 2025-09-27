@@ -53,7 +53,7 @@ namespace IF97
     }
 
     // CoolProp-IF97 Version Number
-    static const char IF97VERSION [] = "v2.2.0";
+    static const char IF97VERSION [] = "v2.2.1";
     // Setup Water Constants for Trivial Functions and use in Region Classes
     // Constant values from:
     // Revised Release on the IAPWS Industrial Formulation 1997
